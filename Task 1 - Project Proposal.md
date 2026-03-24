@@ -1,45 +1,55 @@
-📌 Personal Productivity & Organization Web App
-1. Project Proposal
-🧩 Problem Statement
+# Personal Productivity and Organization Web App
 
-Many students and young professionals struggle to manage tasks, deadlines, and personal goals across multiple platforms (notes apps, calendars, reminders). This fragmentation leads to missed deadlines, poor time management, and decreased productivity.
+## 1. Project Proposal
 
-Current tools are often either too complex or too simplistic, lacking a balance between usability and powerful organization features. There is a need for a centralized, easy-to-use system that helps users manage their daily responsibilities efficiently.
+### Problem Statement
+Many students and young professionals struggle to manage tasks, deadlines, and personal goals across multiple platforms such as notes apps, calendars, and reminders. This fragmentation often leads to missed deadlines, poor time management, and decreased productivity.
 
-👥 Target Users
+Current tools are either too complex or too simple, lacking a balance between usability and functionality. A centralized system is needed to help users manage responsibilities efficiently.
 
-College students
+---
 
-Young professionals
+### Target Users
+- College students  
+- Young professionals  
+- Individuals managing personal goals and schedules  
 
-Individuals managing personal goals and schedules
+---
 
-💡 Value Proposition
+### Value Proposition
+This application provides a centralized productivity system where users can:
+- Manage tasks and deadlines  
+- Track progress toward goals  
+- Receive reminders  
+- View organized task data in one place  
 
-This application provides a centralized productivity hub where users can:
+---
 
-Manage tasks and deadlines
+### Minimum Viable Product (MVP)
 
-Track progress toward goals
+#### Task 1: User Authentication
+- User registration  
+- User login  
+- Secure session handling  
 
-Receive intelligent reminders
+#### Task 2: Task Management
+- Create tasks  
+- Edit tasks  
+- Delete tasks  
 
-View productivity insights
+#### Task 3: Task Organization
+- Categorize tasks (school, work, personal)  
+- Assign priority levels  
+- Set due dates  
 
-Unlike basic to-do apps, this system integrates external data and provides structured organization tools in one place.
+#### Task 4: Dashboard
+- Display all tasks  
+- Show upcoming deadlines  
+- Provide a clear overview of user activity  
 
-🚀 Minimum Viable Product (MVP)
+#### Task 5: API Integration
+- Connect to external calendar or time API  
+- Sync task deadlines with real-world dates  
+- Enable time-based reminders  
 
-The MVP will include:
 
-✅ User registration and login
-
-✅ Task creation, editing, and deletion
-
-✅ Task categorization (e.g., school, work, personal)
-
-✅ Due dates and priority levels
-
-✅ Dashboard view of tasks
-
-✅ Integration with an external API (calendar or time-based data)
