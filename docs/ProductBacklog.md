@@ -1,4 +1,4 @@
-3. Product Backlog
+ Product Backlog
 
 The product backlog includes prioritized user stories that define system functionality.
 
