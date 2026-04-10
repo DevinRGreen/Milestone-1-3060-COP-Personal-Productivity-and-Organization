@@ -41,13 +41,6 @@
 
 ---
 
-## GitHub Collaboration
-
-- Each team member will complete at least 3 commits
-- Commits will reflect incremental progress
-- Clear and descriptive commit messages will be used
-- Work will be distributed across the team
-
 ---
 
 ## AI Usage Log
