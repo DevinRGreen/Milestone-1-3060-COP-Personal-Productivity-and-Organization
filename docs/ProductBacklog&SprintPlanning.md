@@ -72,7 +72,11 @@ All AI-generated content was reviewed and improved by the team.
 
 ## Project Structure
 src/
-├── model/
-├── repository/
-├── service/
-└── controller/
+ 
+ ├── model/
+ 
+ ├── repository/
+ 
+ ├── service/
+ 
+ └── controller/
